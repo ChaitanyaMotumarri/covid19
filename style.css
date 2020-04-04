@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+}
+.danger{
+    background-color: lightsalmon;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding: 10px;
+}
+footer a{
+    color: white;
+}
